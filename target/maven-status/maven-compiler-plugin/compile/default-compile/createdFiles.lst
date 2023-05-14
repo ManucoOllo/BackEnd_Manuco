@@ -1,0 +1,6 @@
+com\portfolio\Manuco\Controller\PersonaController.class
+com\portfolio\Manuco\Repository\IPersonaRepository.class
+com\portfolio\Manuco\Service\ImpPersonaService.class
+com\portfolio\Manuco\ManucoApplication.class
+com\portfolio\Manuco\Entity\Persona.class
+com\portfolio\Manuco\Interface\IPersonaService.class
